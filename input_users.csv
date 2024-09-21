@@ -1,0 +1,5 @@
+user_id,name,email
+1,John Doe,johndoe@example.com
+2,Jane Smith,invalidemail
+1,John Doe,johndoe@example.com
+3,Tom Cruise,tom@validemail.com
